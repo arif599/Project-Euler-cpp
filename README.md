@@ -1,3 +1,3 @@
 # Project-Euler-cpp
-//Ill be doing practice problems in C++
-//  https://projecteuler.net/archives
+Doing practice problems from Project Euler in C++
+https://projecteuler.net/archives
